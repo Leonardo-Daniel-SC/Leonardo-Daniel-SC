@@ -60,12 +60,12 @@
 - [Página com JavaScript Assíncrono](https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono)
 - [Controle de Estoque com SQLite](https://github.com/Leonardo-Daniel-SC/controle-estoque-python)
 - [Página ShowMotor](https://github.com/Leonardo-Daniel-SC/ShowMotor)
-
+  
 ###
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=tokyonight" />
+  <img height="150" wigth="auto" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=transparent&count_private=true" />
+  <img height="150" width="auto" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=tokyonight" />
 </p>
 
 ###
