@@ -55,7 +55,7 @@
 ###
 
 ## Portfolio:
-- [Jogo do Número Secreto](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
+- [Jogo Número Secreto](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
 - [Lista de compras](https://github.com/Leonardo-Daniel-SC/lista-de-compras)
 - [Página com JavaScript Assíncrono](https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono)
 - [Controle de Estoque com SQLite](https://github.com/Leonardo-Daniel-SC/controle-estoque-python)
