@@ -63,7 +63,7 @@
   
 ###
 
-<p align="center">
+<p align="center" gap="20px">
   <img height="160" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=transparent&count_private=true" />
   <img height="160" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=transparent" />
 </p>
