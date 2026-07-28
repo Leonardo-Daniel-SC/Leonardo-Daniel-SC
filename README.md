@@ -64,8 +64,8 @@
 ###
 
 <p align="center">
-  <img height="210" width="49%" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=transparent&count_private=true" />
-  <img height="208" width="40%" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=transparent" />
+  <img height="200" width="49%" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=transparent&count_private=true" />
+  <img height="200" width="49%" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=transparent" />
 </p>
 
 ###
