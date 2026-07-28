@@ -1,11 +1,22 @@
 <h1 data-importer="text" align="center">Hello World👋</h1>
 
-###
+<p>
+  Prazer, eu sou Leonardo Daniel!
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Leonardo-Daniel-SC/Leonardo-Daniel-SC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Leonardo-Daniel-SC/Leonardo-Daniel-SC/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  - 🌱 Atualmente, estudo Engenharia de Software na FIAP. E sou apaixonado por tecnologia, inovação e desenvolvimento de software.
+  
+
+  - 🔭 Estou em busca da minha primeira oportunidade profissional. Meu sonho é, um dia, trabalhar com IA e Machine Learning.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim </summary>
+
+  - 💬  Desde criança sou fascinado por computadores e pela capacidade que a tecnologia tem de transformar ideias em soluções reais. Hoje estou focado em construir uma carreira como Desenvolvedor Backend, desenvolvendo projetos, aprendendo novas tecnologias e evoluindo um pouco todos os dias.
+
+  - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, assim como assistir a filmes e jogar videogames! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
+</details>
 
 ###
 
@@ -31,6 +42,21 @@
  <a href="https://www.linkedin.com/in/leonardo-daniel-sc/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
+###
+
+## Portfolio:
+- [Jogo do Número Secreto](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
+- [Lista de compras](https://github.com/Leonardo-Daniel-SC/lista-de-compras)
+- [Página com JavaScript Assíncrono](https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono)
+- [Controle de Estoque com SQLite](https://github.com/Leonardo-Daniel-SC/controle-estoque-python)
+- [Página ShowMotor](https://github.com/Leonardo-Daniel-SC/ShowMotor)
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Leonardo-Daniel-SC/Leonardo-Daniel-SC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Leonardo-Daniel-SC/Leonardo-Daniel-SC/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
 
 <picture data-importer="pacman">
