@@ -18,6 +18,8 @@
   - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, assim como assistir a filmes e jogar videogames! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
 </details>
 
+<br/>
+
 ###
 
 <div data-importer="techs" align="center">
