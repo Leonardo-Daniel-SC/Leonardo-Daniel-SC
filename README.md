@@ -30,7 +30,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="center" style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="center" style="display: flex;">
   <a href="mailto: leonardodanielcode@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/leonardo_daniel_sc/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
  <a href="https://www.linkedin.com/in/leonardo-daniel-sc/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -63,7 +63,7 @@
   
 ###
 
-<p align="center">
+<p align="center" style="display: flex;">
   <img height="160" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=transparent&count_private=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=transparent" />
