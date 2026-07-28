@@ -53,7 +53,10 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Daniel-SC)](https://github.com/Leonardo-Daniel-SC/github-readme-stats)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=tokyonight" />
+</p>
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Leonardo-Daniel-SC/Leonardo-Daniel-SC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
