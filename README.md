@@ -56,8 +56,8 @@
 ###
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-alpha-one-98.vercel.app/api?username=Leonardo-Daniel-SC&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-alpha-one-98.vercel.app/api/top-langs/?username=Leonardo-Daniel-SC&layout=compact&theme=tokyonight" />
 </p>
 
 <div data-importer="stats" align="center">
