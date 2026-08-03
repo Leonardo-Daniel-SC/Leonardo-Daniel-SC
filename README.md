@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Leonardo%20Daniel&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=40&stroke=-&desc=Desenvolvedor%20Backend&descSize=21&descAlign=65&descAlignY=54&color=193549"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Leonardo%20Daniel&fontSize=70&fontColor=BBE0EF&fontAlign=50&fontAlignY=40&stroke=-&desc=Desenvolvedor%20Backend&descSize=21&descAlign=65&descAlignY=54&color=193549"  />
 </div>
 
 ###
